@@ -5,6 +5,8 @@ title:  "2025-03-23 2023720127 홍춘호 submission"
 
 캐글 주피터 노트북 주소
 
+https://www.kaggle.com/code/hongchunho/fork-of-notebookde4f431525-20235f/edit
+
 https://www.kaggle.com/code/hongchunho/
 
 https://www.kaggle.com/code/hongchunho/notebookde4f431525/edit/run/229222976
