@@ -9,9 +9,7 @@ https://www.kaggle.com/code/hongchunho/fork-of-notebookde4f431525-20235f/edit
 
 https://www.kaggle.com/code/hongchunho/
 
-https://www.kaggle.com/code/hongchunho/notebookde4f431525/edit/run/229222976
 
-https://www.kaggle.com/code/hongchunho/notebookde4f431525/notebook?scriptVersionId=229222976
 
 ![2025-03-23 224126](https://github.com/user-attachments/assets/c9a26e62-bce1-4db4-91cb-e1899a7ae332)
 ![2025-03-23 230338](https://github.com/user-attachments/assets/96ccfc1e-b056-400e-b322-582edc9a17e3)
