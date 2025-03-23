@@ -3,7 +3,7 @@ layout: single
 title:  "2025-03-23 2023720127 홍춘호 submission"
 ---
 
-구글 주피터 노트북 주소
+캐글 주피터 노트북 주소
 
 https://www.kaggle.com/code/hongchunho/
 
